@@ -3,10 +3,6 @@ Pulse generator for low-voltage electrical discharge machining of metals
 
 https://www.youtube.com/watch?v=Wqfy7hmxHZw
 
-Pulse generator for low-voltage electrical discharge machining of metals
-To the electrode
-To the workpiece
-
 I simplified it to output one fixed frequency (5kHz, 15% fill), voltage 19.5V only (laptop power supply), the power part is based on two parallel connected MOSFET fdb7030l, unsoldered from some motherboard at the time I don't remember. Generator works. Reverse polarity, when the part acts as an anode, showed the best results in tap water. Straight polarity doesn't so much destroy the metal as it galvanizes it with copper from the electrode.
 The no-load voltage in water is 5 volts.
 Operating voltage is 3.5 to 4.9 volts.
