@@ -20,4 +20,7 @@ workpiece material - steel
 In the future we plan to add control of electrode feeding and control of working voltage to withdraw the electrode in case of short circuit, or to leave it in place at working voltage and feed forward when the voltage drops, when the working gap has increased.
 
 
+![effect](https://github.com/Bijoo/EDM-pulse-generator/blob/33b762151dcb6ddd020097e9ce544b007c127235/effect.jpg)
+
 ![sketch](https://user-images.githubusercontent.com/22216962/167451447-43fe20f1-176b-44bd-b1c2-21b90215152c.jpg)
+
