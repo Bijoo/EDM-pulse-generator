@@ -1,5 +1,5 @@
 # EDM-pulse-generator
-Pulse generator for low-voltage electrical discharge machining of metals
+Pulse generator for low-voltage electrical discharge machining
 
 https://www.youtube.com/watch?v=Wqfy7hmxHZw
 
